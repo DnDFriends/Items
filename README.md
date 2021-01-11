@@ -1,2 +1,2 @@
-# Magic Item Table
-The Magic Item Table and its pictures.
+# Item Tables
+The various Item Table and their pictures.
